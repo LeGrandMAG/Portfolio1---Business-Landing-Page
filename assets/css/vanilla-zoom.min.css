@@ -2,6 +2,9 @@
   width: 100%;
   /*display: flex;*/
 }
+.logo{
+  width:2rem;
+}
 
 .vanilla-zoom .sidebar {
   /*flex-basis: 30%;*/
